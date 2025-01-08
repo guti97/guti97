@@ -1,4 +1,7 @@
-# Hi there, I'm Guti! 👋
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&width=435&lines=Hi+there%2C+I'm+Guti!+%F0%9F%91%8B)
+
+![Deadpool](https://media.tenor.com/B_p2kigHBqMAAAAM/deadpool-dance-bye-bye-bye.gif)
+
 
 ## About Me
 
@@ -24,7 +27,7 @@ Here are some of the technologies and tools I work with:
 
 
 ## Contact
--  [LinkedIn](https://www.linkedin.com/in/fabian-gutjahr/)
+-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-gutjahr/)
 
 ## GitHub Stats
 
